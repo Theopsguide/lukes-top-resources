@@ -90,11 +90,10 @@ Stay tuned as I continue to add my favorite tools and resources for:
 
 ## About This Collection
 
-As the Owner & Chief Operations Architect at The Operations Guide, I'm passionate about helping SMBs leverage AI and automation to "buy back time." This repository contains the tools and resources I personally use and recommend to clients.
+As the Owner & Chief Operations Architect at The Operations Guide, I'm passionate about helping SMBs leverage AI and automation to "buy back time." This repository contains the tools and resources I personally use and recommend.
 
 ## Connect With Me
 
-- **Schedule a Meeting:** https://tidycal.com/luketh
 - **Company:** [The Operations Guide](https://theoperationsguide.com)
 
 ---
